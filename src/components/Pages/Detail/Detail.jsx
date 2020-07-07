@@ -16,6 +16,7 @@ function Detail() {
     useEffect(() => {
         fetchSinglePokemon();
 
+       eslint-disable-next-line
     }, []);
 
     return (
