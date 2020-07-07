@@ -1,0 +1,30 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    box-sizing: border-box;
+}
+div{
+    margin-top: 4rem;
+}
+input{
+    display: block;
+    padding: 1rem 5rem 1rem 0;
+    margin: auto;
+}
+label{
+    font-size: 2rem;
+    display: block;
+    margin: 2rem 0 2rem 0;
+    text-align: center;
+}
+button{
+    padding: 1rem 3rem;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: cornsilk;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
