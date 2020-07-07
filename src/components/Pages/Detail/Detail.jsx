@@ -15,7 +15,7 @@ function Detail() {
 
     useEffect(() => {
         fetchSinglePokemon();
-    }, []);
+    });
 
     return (
         <div>
